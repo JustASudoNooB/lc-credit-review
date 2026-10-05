@@ -1,0 +1,19 @@
+# data never goes to GitHub (size and LendingClub terms)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.duckdb
+*.duckdb.wal
+
+# personal CV files stay local
+docs/cv/
+lc_results.zip
+docs/INTERVIEW_NOTES.md
+reports/CV_BULLETS.md
+reports/PROJECT_PITCH.md

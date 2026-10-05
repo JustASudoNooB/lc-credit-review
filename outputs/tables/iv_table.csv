@@ -1,0 +1,20 @@
+feature,iv,bins,kind,direction,iv_band
+fico,0.13035158821026377,8,numeric,risk falls with value,medium
+annual_inc,0.08567021969571828,8,numeric,risk falls with value,weak
+dti,0.047405131378745156,8,numeric,risk rises with value,weak
+mort_acc,0.043060250933206805,7,numeric,risk falls with value,weak
+loan_to_income,0.042467693115900325,8,numeric,risk rises with value,weak
+home_ownership,0.03793568761798474,3,categorical,categorical,weak
+inq_last_6mths,0.028390000843448133,4,numeric,risk rises with value,weak
+revol_util,0.02131137899746996,9,numeric,risk rises with value,weak
+credit_hist_months,0.020619917463106957,7,numeric,risk falls with value,weak
+purpose,0.020039033045613025,4,categorical,categorical,weak
+emp_length_yrs,0.01880336295879005,6,numeric,risk falls with value,none (<0.02)
+revol_bal,0.01695684391977431,8,numeric,risk falls with value,none (<0.02)
+total_acc,0.009446086549663628,8,numeric,risk falls with value,none (<0.02)
+verification_status,0.008330662058364318,3,categorical,categorical,none (<0.02)
+loan_amnt,0.008023214457349296,4,numeric,risk falls with value,none (<0.02)
+pub_rec,0.0017923455404777401,2,numeric,risk rises with value,none (<0.02)
+delinq_2yrs,0.0012947714757732488,3,numeric,risk rises with value,none (<0.02)
+pub_rec_bankruptcies,0.0011744586227573441,2,numeric,risk rises with value,none (<0.02)
+open_acc,0.00015890674409107229,6,numeric,risk rises with value,none (<0.02)

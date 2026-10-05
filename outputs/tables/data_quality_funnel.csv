@@ -1,0 +1,7 @@
+step,rows,dropped
+rows read from raw file,2260701,0
+valid issue date,2260668,33
+issued 2012-01 to 2015-12,844905,1415763
+term = 36 months,589635,255270
+individual applications,589396,239
+final outcome (paid off or charged off),589249,147
